@@ -1,0 +1,14 @@
+{
+  "name": "local-business-connect",
+  "version": "1.0.0",
+  "description": "Local Business Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Samiksha Shinde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

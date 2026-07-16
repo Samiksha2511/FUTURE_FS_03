@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Shinde Bakery",
+    "category": "Bakery",
+    "owner": "Mr. Shinde",
+    "phone": "9876543210",
+    "address": "Kolhapur"
+  },
+  {
+    "id": 2,
+    "name": "City Salon",
+    "category": "Salon",
+    "owner": "Rahul Patil",
+    "phone": "9876501234",
+    "address": "Kolhapur"
+  },
+  {
+    "id": 1783227636455,
+    "name": "Hotel Maharaja",
+    "category": "Restaurant",
+    "owner": "Prabhakar",
+    "phone": "7890123456",
+    "address": "Main Road Gargoti"
+  },
+  {
+    "id": 1783227769272,
+    "name": "Shree Grocery Stores",
+    "category": "grocery stores",
+    "owner": "Samiksha",
+    "phone": "9078563412",
+    "address": "Kolhapur"
+  },
+  {
+    "id": 1783229597667,
+    "name": "hotel Patilwada",
+    "category": "Restaurant",
+    "owner": "Patil",
+    "phone": "8907654321",
+    "address": "Kalamba"
+  },
+  {
+    "id": 1783230134463,
+    "name": "Ganesh repair shop",
+    "category": "Repair Shop",
+    "owner": "Ganesh Nale",
+    "phone": "6789054312",
+    "address": "Rajarampuri lane 1,Kolhapur"
+  }
+]
